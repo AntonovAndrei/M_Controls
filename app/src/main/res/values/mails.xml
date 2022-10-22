@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cat_names">
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Рыжик</item>
+        <item>Пыжик</item>
+        <item>Пушок</item>
+        <item>Пухлик</item>
+        <item>Снежок</item>
+        <item>Борис</item>
+    </string-array>
+</resources>
